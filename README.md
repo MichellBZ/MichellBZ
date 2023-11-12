@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MichellBZ, a data analyst with a passion for programming and a keen interest in extracting valuable insights from data.
+- 👀 I’m interested in leveraging data to solve real-world problems, exploring new technologies, and contributing to open source projects.
+- 🌱 I’m currently learning advanced programming techniques, focusing on improving my skills in Python and exploring machine learning algorithms for data analysis.
+- 💞️ I’m looking to collaborate on projects related to data analysis, visualization, and machine learning. I believe in the power of collaboration to create meaningful solutions.
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](www.linkedin.com/in/michell-bezerra-95ba85105). I'm always open to discussions and collaboration!
